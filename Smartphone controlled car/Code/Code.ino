@@ -1,3 +1,13 @@
+/*This sketch shows you how to make a smartphone controlled car using Arduino.
+ * 
+ * Components
+ * ----------
+ * Arduino uno, L298N, Smartphone, Bluetooth module, chassis, wheels, 2 Motors, 2 9V batteries, battery connectors and jumper  
+ * wires
+ 
+ **********************************************************************************************************************/
+
+ 
 #include<SoftwareSerial.h>
 SoftwareSerial bluetooth(2, 3);
 

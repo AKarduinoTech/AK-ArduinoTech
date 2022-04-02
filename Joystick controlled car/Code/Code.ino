@@ -1,3 +1,13 @@
+/*This sketch shows you how to make a joystick controlled car using Arduino.
+ * 
+ * Components
+ * ----------
+ * Arduino uno, L298N, joystick, chassis, wheels, 2 Motors, 2 9V batteries, battery connectors and jumper  
+ * wires
+ 
+ **********************************************************************************************************************/
+
+ 
 int x = A0;
 int y = A1;
 

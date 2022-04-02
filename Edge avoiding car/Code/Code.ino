@@ -1,3 +1,13 @@
+/*This sketch shows you how to make an edge avoiding car using Arduino.
+ * 
+ * Components
+ * ----------
+ * Arduino uno, L298N, Ultrasonic sensor, chassis, wheels, 2 Motors, 2 9V batteries, battery connectors and jumper  
+ * wires
+ 
+ **********************************************************************************************************************/
+
+ 
 int motor1forward = 4;
 int motor1back = 5;
 int motor2back = 6;
