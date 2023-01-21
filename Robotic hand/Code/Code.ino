@@ -8,7 +8,7 @@
 
 #include <Servo.h>
 
-Servo myservo1;  // creating servo object to control servo 1
+Servo myservo1;  // creating servo objects to control the servos
 Servo myservo2;  
 Servo myservo3;  
 Servo myservo4;  
