@@ -32,7 +32,7 @@ digitalWrite(green2, HIGH);
 myservo2.write(90);
 myservo1.write(0);
 
-delay(5000);
+delay(7000);
 
 digitalWrite(red1, LOW);
 digitalWrite(red2, LOW);
@@ -44,7 +44,7 @@ myservo2.write(90);
 myservo1.write(90);
 
 
-delay(5000);
+delay(4000);
 
 digitalWrite(red1, LOW);
 digitalWrite(red2, HIGH);
@@ -55,7 +55,7 @@ digitalWrite(green2, LOW);
 myservo2.write(0);
 myservo1.write(90);
 
-delay(5000);
+delay(7000);
 
 digitalWrite(red1, LOW);
 digitalWrite(red2, LOW);
@@ -66,6 +66,6 @@ digitalWrite(green2, LOW);
 myservo2.write(90);
 myservo1.write(90);
 
-delay(5000);
+delay(4000);
 
 }
