@@ -4,6 +4,7 @@
  * ----------
  * Arduino uno, nRF24L01, joystick, 9V battery, battery connector and jumper wires
  * 
+ * This sketch is created by Anuj Karnik.
  ********************************************************************************************************************/
 
 #include <SPI.h>
