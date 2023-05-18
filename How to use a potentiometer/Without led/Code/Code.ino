@@ -4,6 +4,7 @@
 * ----------
 * Arduino uno, potentiometer, breadboard and some jumper cables
 * 
+* This sketch is created by Anuj Karnik.
 **********************************************************************************************************************************************/
 
 
