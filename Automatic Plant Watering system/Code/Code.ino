@@ -4,6 +4,7 @@
 * ----------
 * Arduino uno, soil moisture sensor, submersible pum, breadboard, relay, RGB led,2 220 ohm resistors, 4 AA cells,9 Volt battery and some jumper cables
 * 
+* This sketch is created by Anuj Karnik.
 **********************************************************************************************************************************************/
 
 
