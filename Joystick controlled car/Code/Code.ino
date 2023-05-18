@@ -4,7 +4,8 @@
  * ----------
  * Arduino uno, L298N, joystick, chassis, wheels, 2 Motors, 2 9V batteries, battery connectors and jumper  
  * wires
- 
+ *
+ * This sketch is created by Anuj Karnik.
  **********************************************************************************************************************/
 
  
