@@ -4,6 +4,7 @@
 * ----------
 * Arduino uno, breadboard, touchsensor, LED and jumper wires
 * 
+* This sketch is created by Anuj Karnik.
 ********************************************************************************************************************/
  
 int touchsensor = 8;
