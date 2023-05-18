@@ -6,7 +6,8 @@
  * Arduino uno, Breadboard, Photoresistor, 9V battery, 2 leds, 2 220 ohm resistors, 7 1K ohm resistors, Jumper wires.
  * 
  * To learn more about voltage divider, have a look at- https://en.wikipedia.org/wiki/Voltage_divider
- 
+ *
+ * This sketch is created by Anuj Karnik.
  **********************************************************************************************************************/
 
 
