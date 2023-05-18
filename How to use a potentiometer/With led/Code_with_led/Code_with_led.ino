@@ -4,6 +4,7 @@
 * ----------
 * Arduino uno, potentiometer, led, 220 ohm resistor, breadboard and some jumper cables
 * 
+* This sketch is created by Anuj Karnik.
 **********************************************************************************************************************************************/
 
 
