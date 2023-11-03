@@ -5,9 +5,6 @@
 * Arduino uno, HC-SR04, breadboard and some jumper cables.
 * 
 **********************************************************************************************************************************************/
-
-#include <Wire.h>
-
 const int trigPin = 9;  // Declaring pins
 const int echoPin = 10;
 
@@ -31,6 +28,5 @@ void loop() {
   duration = pulseIn(echoPin, HIGH);  // Reads the echoPin, returns the sound wave travel time in microseconds
 
   distance = duration * 0.0343 / 2;  // Calculating the distance
-  
-                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                        
 }
