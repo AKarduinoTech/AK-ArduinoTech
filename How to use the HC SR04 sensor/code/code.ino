@@ -28,5 +28,8 @@ void loop() {
   duration = pulseIn(echoPin, HIGH);  // Reads the echoPin, returns the sound wave travel time in microseconds
 
   distance = duration * 0.0343 / 2;  // Calculating the distance
-                                                                                                                                                        
+    
+  Serial.print("Distance: ");
+  Serial.println(distance);
+  delay(250);                                                                                                                                                      
 }
